@@ -1,0 +1,15 @@
+Intersection,Direction,Green_Time_Seconds
+A,C→A,70
+A,B→A,50
+B,D→B,70
+B,C→B,5
+B,A→B,45
+C,E→C,45
+C,B→C,5
+C,A→C,70
+D,E→D,50
+D,B→D,70
+E,F→E,45
+E,D→E,5
+E,C→E,70
+F,E→F,5

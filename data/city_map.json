@@ -1,0 +1,13 @@
+{
+    "nodes": ["A", "B", "C", "D", "E", "F"],
+    "edges": [
+      {"from": "A", "to": "B", "base_cost": 5},
+      {"from": "A", "to": "C", "base_cost": 10},
+      {"from": "B", "to": "C", "base_cost": 2},
+      {"from": "B", "to": "D", "base_cost": 4},
+      {"from": "C", "to": "E", "base_cost": 6},
+      {"from": "D", "to": "E", "base_cost": 1},
+      {"from": "E", "to": "F", "base_cost": 3}
+    ]
+  }
+  

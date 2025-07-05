@@ -1,0 +1,4 @@
+Vehicle,Path,Cost
+A→F,A → B → D → E → F,27.0
+C→F,C → B → D → E → F,11.6
+E→F,E → F,3.6
