@@ -50,13 +50,13 @@ The **Smart Traffic Management System** models and optimizes city-wide traffic f
 Smart_Traffic_Management_System/
 │
 ├── Smart_Traffic_Management_System.ipynb   # Analysis + optimization notebook
-├── SmartTrafficManagementSystemwithSimulation.py  # Pygame-based simulator
+├── main_simulation_strategic_paths_cleaned.py  # Pygame-based simulator
 ├── data/
 │   ├── city_map.json                       # Nodes & edges
 │   ├── traffic_data_case1.csv              # Light traffic
 │   ├── traffic_data_case2.csv              # Jam on B–D
 │   └── traffic_data_case3.csv              # Multiple congestions
-└── requirements.txt
+
 ```
 
 ---
