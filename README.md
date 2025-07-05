@@ -85,7 +85,7 @@ Notebook functionalities:
 ### 🕹️ Run Simulation (Visualization)
 
 ```bash
-python SmartTrafficManagementSystemwithSimulation.py
+python main_simulation_strategic_paths_cleaned.py
 ```
 
 Simulates traffic flow between points A, C, and E to destination F under various strategies.
